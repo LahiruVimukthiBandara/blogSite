@@ -1,0 +1,6 @@
+@import url("https://fonts.cdnfonts.com/css/arial-rounded-mt-bold");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,800;0,900;0,1000;1,200;1,300;1,400;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
